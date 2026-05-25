@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variables — never commit secrets
+.env
+
+# FAISS vector store — regenerate with ingestion.py
+vectorstore/
+
+# Claude memory
+.claude/
+
+# Helper scripts
+create_pdf.py
+create_doc.py
+
+# OS
+.DS_Store
+Thumbs.db
