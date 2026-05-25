@@ -205,7 +205,3 @@ docx2txt
 A detailed 6-page PDF covering the full architecture, tech stack, workflow diagram, and production features is included: `Agentic_RAG_LangGraph.pdf`
 
 ---
-
-## License
-
-MIT
